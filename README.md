@@ -1,2 +1,2 @@
-# Banglore-Home-Price-Prediction
-Banglore Home Price Prediction ML project
+# Bangalore-Home-Price-Prediction
+Bangalore Home Price Prediction ML project
